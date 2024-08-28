@@ -51,7 +51,8 @@ Tortoise SVN,
 VSS,
 Health Care,
 CRM
-
+### Quote
+> Everything is challenging in this world so don't give up, face it and do it. - Loveneet Singh Chahal
 ### Contact me
 
 [chahal.loveneet@gmail.com](mailto:chahal.loveneet@gmail.com)
