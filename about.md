@@ -54,4 +54,4 @@ CRM
 
 ### Contact me
 
-[loveneetstack@gmail.com](mailto:loveneetstack@gmail.com)
+[chahal.loveneet@gmail.com](mailto:chahal.loveneet@gmail.com)
